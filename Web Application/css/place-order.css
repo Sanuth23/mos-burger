@@ -99,3 +99,23 @@ a:hover {
 .img-details input:hover {
     color: red;
 }
+h2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#submarine{
+    display: none;
+}
+#fries{
+    display: none;
+}
+#pasta{
+    display: none;
+}
+#chicken{
+    display: none;
+}
+#beverage{
+    display: none;
+}
