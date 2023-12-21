@@ -77,7 +77,6 @@ p {
     margin-top: 5px;
     overflow: scroll;
     text-align: justify;
-    background-color: rgb(123, 125, 128);
 }
 .cart-total {
     text-align: right;
@@ -103,7 +102,7 @@ h2 {
     text-decoration: underline;
     font-weight: bold;
 }
-
+/* 
 #submarine{
     display: none;
 }
@@ -118,4 +117,7 @@ h2 {
 }
 #beverage{
     display: none;
+} */
+.add-item {
+    font-size: large;
 }
